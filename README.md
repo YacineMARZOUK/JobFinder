@@ -258,7 +258,7 @@ This project is private and proprietary.
 
 ## 👨‍💻 Author
 
-**Wissam Douskary**
+**Yacine MARZOUK**
 
 ## 🙏 Acknowledgments
 
