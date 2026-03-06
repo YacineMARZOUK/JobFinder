@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nom": "mahmoud",
+      "prenom": "ahmad",
+      "email": "ahmad@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "nom": "sounil",
+      "prenom": "albert",
+      "email": "albert@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "6303",
+      "nom": "lamabara",
+      "prenom": "houssam",
+      "email": "houssam@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "1001",
+      "nom": "Sutton",
+      "prenom": "Lareina",
+      "email": "xumyhik@mailinator.com",
+      "password": "123456789"
+    },
+    {
+      "id": "1002",
+      "nom": "ya3tilo",
+      "prenom": "messi ",
+      "email": "messi@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "1003",
+      "nom": "test",
+      "prenom": "wis",
+      "email": "test@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "cc5d",
+      "nom": "marzouk",
+      "prenom": "yacine",
+      "email": "yacinemarzou@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "favorits": [
+    {
+      "id": "89bb",
+      "userId": "00c2",
+      "offerId": 21157352,
+      "title": "Assistant Site Manager",
+      "company": "DoorDash",
+      "location": "Wyoming, MI"
+    },
+    {
+      "id": "2d94",
+      "userId": "00c2",
+      "offerId": 17780767,
+      "title": "Nurse Care Manager (RN)",
+      "company": "Hartford HealthCare",
+      "location": "Ledyard, CT"
+    }
+  ],
+  "suivi": [
+    {
+      "id": "cba6",
+      "userId": "00c2",
+      "offerId": 17780767,
+      "title": "Nurse Care Manager (RN)",
+      "company": "Hartford HealthCare",
+      "location": "Ledyard, CT",
+      "status": "accepte",
+      "notes": "modooooooooooooooooooooooooo",
+      "dateAdded": "2026-02-13T14:48:05.709Z"
+    },
+    {
+      "id": "3eaf",
+      "userId": "00c2",
+      "offerId": 21157352,
+      "title": "Assistant Site Manager",
+      "company": "DoorDash",
+      "location": "Wyoming, MI",
+      "status": "en_attente",
+      "notes": "",
+      "dateAdded": "2026-02-13T14:53:11.217Z"
+    }
+  ]
+}
